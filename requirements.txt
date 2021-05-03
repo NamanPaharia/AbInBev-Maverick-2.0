@@ -6,7 +6,6 @@ tpot == 0.11.1
 Pillow==8.0.0
 protobuf==3.15.8
 gdown==3.13.0
-scipy==1.5.3
 streamlit==0.81.0
 urllib3==1.22
 sklearn==0.0
